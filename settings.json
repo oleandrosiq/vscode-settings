@@ -1,0 +1,51 @@
+{
+	"explorer.compactFolders": false,
+
+	"editor.tabSize": 2,
+	"editor.fontSize": 15,
+	"editor.fontWeight": "100",
+	"editor.lineHeight": 23,
+
+	"editor.codeActionsOnSave": {
+		"source.fixAll": true,
+		"source.fixAll.eslint": true
+	},
+
+	// "editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnSave": true,
+
+	"prettier.tabWidth": 2,
+	"prettier.endOfLine": "crlf",
+	"prettier.bracketSpacing": true,
+	"prettier.singleQuote": true,
+	"prettier.useTabs": true,
+	"prettier.printWidth": 120,
+	"prettier.semi": true,
+	"prettier.arrowParens": "avoid",
+	"prettier.trailingComma": "all",
+	"prettier.requirePragma": false,
+	"prettier.jsxSingleQuote": false,
+
+	"tabnine.experimentalAutoImports": true,
+	"editor.fontFamily": "Fira Code",
+	"editor.fontLigatures": true,
+	"terminal.integrated.defaultProfile.windows": "Git Bash",
+	"powermode.enabled": true,
+	"liveSassCompile.settings.showOutputWindow": false,
+	"explorer.confirmDelete": false,
+	"gitlens.advanced.messages": {
+		"suppressImproperWorkspaceCasingWarning": true
+	},
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"bracketPairColorizer.depreciation-notice": false,
+	"material-icon-theme.folders.theme": "specific",
+	"workbench.iconTheme": "material-icon-theme",
+	"editor.inlineSuggest.enabled": true,
+	"explorer.confirmDragAndDrop": false,
+	"powermode.shakeIntensity": 0,
+	"powermode.shake.intensity": 0,
+	"powermode.combo.counterEnabled": "show",
+	"powermode.combo.location": "statusbar",
+	"workbench.colorTheme": "Omni Owl"
+}
+
