@@ -7,8 +7,8 @@
 	"editor.lineHeight": 23,
 
 	"editor.codeActionsOnSave": {
-		"source.fixAll": true,
-		"source.fixAll.eslint": true
+		"source.fixAll.eslint": true,
+		"source.fixAll": true
 	},
 
 	// "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -30,7 +30,6 @@
 	"editor.fontFamily": "Fira Code",
 	"editor.fontLigatures": true,
 	"terminal.integrated.defaultProfile.windows": "Git Bash",
-	"powermode.enabled": true,
 	"liveSassCompile.settings.showOutputWindow": false,
 	"explorer.confirmDelete": false,
 	"gitlens.advanced.messages": {
@@ -46,6 +45,15 @@
 	"powermode.shake.intensity": 0,
 	"powermode.combo.counterEnabled": "show",
 	"powermode.combo.location": "statusbar",
-	"workbench.colorTheme": "Omni Owl"
+	"quokka.compactMessageOutput": true,
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"editor.cursorBlinking": "expand",
+	"editor.cursorSmoothCaretAnimation": true,
+	"editor.cursorWidth": 2,
+	"editor.find.addExtraSpaceOnTop": false,
+	"vscode-pets.position": "explorer",
+	"vscode-pets.theme": "forest",
+	"vscode-pets.petType": "dog",
+	"vscode-pets.petSize": "medium"
 }
 
