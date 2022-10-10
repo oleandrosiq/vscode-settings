@@ -1,19 +1,15 @@
 {
 	"explorer.compactFolders": false,
-
 	"editor.tabSize": 2,
 	"editor.fontSize": 15,
 	"editor.fontWeight": "100",
 	"editor.lineHeight": 23,
-
 	"editor.codeActionsOnSave": {
 		"source.fixAll.eslint": true,
 		"source.fixAll": true
 	},
-
 	// "editor.defaultFormatter": "esbenp.prettier-vscode",
 	"editor.formatOnSave": true,
-
 	"prettier.tabWidth": 2,
 	"prettier.endOfLine": "crlf",
 	"prettier.bracketSpacing": true,
@@ -25,7 +21,6 @@
 	"prettier.trailingComma": "all",
 	"prettier.requirePragma": false,
 	"prettier.jsxSingleQuote": false,
-
 	"tabnine.experimentalAutoImports": true,
 	"editor.fontFamily": "Fira Code",
 	"editor.fontLigatures": true,
@@ -49,11 +44,13 @@
 	"typescript.updateImportsOnFileMove.enabled": "always",
 	"editor.cursorBlinking": "expand",
 	"editor.cursorSmoothCaretAnimation": true,
-	"editor.cursorWidth": 2,
+	"editor.cursorWidth": 4,
 	"editor.find.addExtraSpaceOnTop": false,
 	"vscode-pets.position": "explorer",
 	"vscode-pets.theme": "forest",
 	"vscode-pets.petType": "dog",
-	"vscode-pets.petSize": "medium"
+	"vscode-pets.petSize": "medium",
+	"workbench.colorTheme": "Xcode Classic Dark",
+	"material-icon-theme.folders.color": "#42a5f5"
 }
 
